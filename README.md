@@ -12,7 +12,7 @@ In this subsequent project, I demonstrated essential machine learning skills usi
 
 ## Results
 
-The results were compiled into a comprehensive **report**: [`Analysis_of_Movie_Ratings.pdf`](Analysis_of_Movie_Ratings.pdf), with figures used to effectively communicate the key findings and support the arguments presented.
+The results were compiled into a **comprehensive report**: [`Analysis_of_Movie_Ratings.pdf`](Analysis_of_Movie_Ratings.pdf), with figures used to effectively communicate the key findings and support the arguments presented.
 
 ## Dataset
 
