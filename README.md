@@ -10,9 +10,11 @@ In this project, I demonstrated essential skills in hypothesis testing using a r
 
 In this subsequent project, I demonstrated essential machine learning skills using the same dataset as in the hypothesis testing project. The aim was to highlight the differences between machine learning methods and traditional inferential methods. By applying various machine learning algorithms to the movie ratings data, I explored and illustrated what machine learning can and cannot achieve. This comparative analysis was crucial in understanding the strengths and limitations of machine learning in this context. 
 
-The results were compiled into a comprehensive report, with figures used to effectively communicate the key findings and support the arguments presented.
+## Results
 
-## The dataset
+The results were compiled into a comprehensive **report**: [`Analysis_of_Movie_Ratings.pdf`](Analysis_of_Movie_Ratings.pdf), with figures used to effectively communicate the key findings and support the arguments presented.
+
+## Dataset
 
 This dataset features ratings data of 400 movies from 1097 research participants.
 
