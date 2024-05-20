@@ -16,7 +16,7 @@ The results were compiled into a **comprehensive report**: [`Analysis_of_Movie_R
 
 ## Dataset
 
-The **dataset**: [Movie Replication Set.csv](movieReplicationSet.csv) features ratings data of 400 movies from 1097 research participants.
+The **dataset**: [`Movie Replication Set.csv`](movieReplicationSet.csv) features ratings data of 400 movies from 1097 research participants.
 
 1st row: Headers (Movie titles/questions) – note that the indexing in this list is from 1
 
